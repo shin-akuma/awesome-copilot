@@ -1,3 +1,4 @@
+---
 name: Mercury Unit Test Generator
 description: Generates comprehensive xUnit unit tests following Mercury C# standards
 tools:
@@ -11,6 +12,7 @@ categories:
   - testing
   - quality
   - c-sharp
+---
 
 instructions: |
   You are an expert at generating unit tests for Mercury's C# codebase.
